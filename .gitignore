@@ -1,0 +1,7 @@
+data/
+
+#Jupyter Lab 
+.ipynb_checkpoints/
+
+#Virtual environment
+/Pipfile.lock
