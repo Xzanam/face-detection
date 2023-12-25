@@ -1,5 +1,6 @@
 data/
 output/
+aug_data/
 #Jupyter Lab 
 .ipynb_checkpoints/
 
